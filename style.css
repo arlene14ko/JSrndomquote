@@ -1,0 +1,27 @@
+body{
+    background-color: steelblue;
+}
+
+#container {
+    background-color: white;
+    border: 5px solid #f5e4f5;
+    height: 275px;
+    width: 750px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+#btn{
+    margin: : 50px auto;
+    height: 50px;
+    width: 250px;
+    font-size: 22px;
+    font-style: Tahoma;
+    background-color: rgb(192, 191, 191);
+}
+
+#output{
+    margin: 25px auto;
+    font-size: 26px;
+    font-style: Cambria;
+}
